@@ -8,7 +8,7 @@ This project focuses on analyzing hockey tournament data through a combination o
 
 Tools Used: Python, BeautifulSoup, Requests
 
-Description: The project starts with scraping data from a specific website that hosts hockey tournament information. Python scripts are used to extract relevant data such as team names, scores, player statistics, match dates, etc.
+Description: The project starts with scraping data from a specific website that hosts hockey tournament information. Python scripts are used to extract relevant data such as team names, Wins, Losses, Goals For, Goals Against etc.
 
 -> Data Formatting and Cleaning (SQL):
 
