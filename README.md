@@ -24,6 +24,8 @@ Description: The cleaned data is then imported into Power BI for visualization a
 
 Power BI Files: hockey_tournament_dashboard.pbix.
 
+![Hockey Dashboard Image](https://github.com/user-attachments/assets/5a1f777f-804b-46ef-a0f2-588eb5229657)
+
 # PROJECT STRUCTURE
 
 hockey-tournament-analysis/
