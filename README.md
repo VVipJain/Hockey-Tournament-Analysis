@@ -1,7 +1,5 @@
 # HOCKEY-TOURNAMENT-ANALYSIS
 
-# OVERVIEW
-
 This project focuses on analyzing hockey tournament data through a combination of data scraping, cleaning, and visualization. The primary objective is to gather data from a website, format and clean the data using SQL, and then visualize and analyze the data using Power BI.
 
 # PROJECT WORKFLOW 
@@ -29,6 +27,7 @@ Power BI Files: hockey_tournament_dashboard.pbix.
 # PROJECT STRUCTURE
 
 hockey-tournament-analysis/
+
 │
 ├── hockey_data_scraping.ipynb              # Python script for data scraping
 
