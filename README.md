@@ -1,6 +1,6 @@
-# HOCKEY-TOURNAMENT-ANALYSIS
+# ICE HOCKEY TOURNAMENT ANALYSIS
 
-This project focuses on analyzing hockey tournament data through a combination of data scraping, cleaning, and visualization. The primary objective is to gather data from a website, format and clean the data using SQL, and then visualize and analyze the data using Power BI.
+This project focuses on analyzing hockey tournament data through a combination of data scraping, cleaning, and visualization. The primary objective is to gather data from a website, format and clean the data using excel, and then visualize and analyze the data using Tableau.
 
 # PROJECT WORKFLOW 
 
@@ -10,31 +10,16 @@ Tools Used: Python, BeautifulSoup, Requests
 
 Description: The project starts with scraping data from a specific website that hosts hockey tournament information. Python scripts are used to extract relevant data such as team names, Wins, Losses, Goals For, Goals Against etc.
 
--> Data Formatting and Cleaning (SQL):
+-> Data Formatting and Cleaning (Excel):
 
-Tools Used: SQL
+Tools Used: Excel
 
-Description: After scraping, the raw data is stored in a database. SQL is used to clean and format the data. This includes tasks like removing duplicates, handling missing values, normalizing data, and preparing it for analysis.
+Description: After scraping, the raw data is stored in a excel file. Excel is used to clean and format the data. This includes tasks like removing duplicates, handling missing values, normalizing data, and preparing it for analysis.
 
--> Data Visualization and Analysis (Power BI):
+-> Data Visualization and Analysis (Tableau):
 
-Tools Used: Power BI
+Tools Used: Tableau
 
-Description: The cleaned data is then imported into Power BI for visualization and analysis. Various charts, graphs, and dashboards are created to help understand trends, team performance, and other insights.
+Description: The cleaned data is then imported into Tableau for visualization and analysis. Various charts, graphs, and dashboards are created to help understand trends, team performance, and other insights.
 
-Power BI Files: hockey_tournament_dashboard.pbix.
-
-![Hockey Dashboard Image](https://github.com/user-attachments/assets/5a1f777f-804b-46ef-a0f2-588eb5229657)
-
-# PROJECT STRUCTURE
-
-hockey-tournament-analysis/
-
-│
-├── hockey_data_scraping.ipynb              # Python script for data scraping
-
-├── SQLQuery1.sql            # SQL script for data cleaning and formatting
-
-├── Hockey Tournament Dashboard.pbix  # Power BI dashboard
-
-├── README.md                    # Project documentation
+![image](https://github.com/user-attachments/assets/4899482e-cb9b-49f0-846c-7592376bcaba)
