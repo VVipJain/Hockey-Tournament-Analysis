@@ -1,4 +1,4 @@
-HOCKEY TOURNAMENT ANALYSIS
+# HOCKEY TOURNAMENT ANALYSIS
 
 This project focuses on analyzing hockey tournament data through a combination of data scraping, cleaning, and visualization. The primary objective is to gather data from a website, format and clean the data using SQL, and then visualize and analyze the data using Power BI.
 
